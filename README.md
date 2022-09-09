@@ -50,5 +50,6 @@ Add your own domain name and have it point to the running services (try adding a
 ### ELASTIC BEANSTALK ENDPOINT
 http://udagram-fatou-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/happy-friday-quotes-1585622120.jpg
 
+http://udagram-fatou-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn5.vectorstock.com/i/1000x1000/89/49/happy-sunday-typography-quote-and-smile-face-vector-22188949.jpg
 ### GITHUB REPOSITORY LINK
 https://github.com/timza22/udagram-image-filter
